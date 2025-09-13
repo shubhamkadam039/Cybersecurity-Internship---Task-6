@@ -287,6 +287,28 @@ Organizations and individuals should prioritize implementing comprehensive passw
 - NIST Special Publication 800-63B - Authentication guidelines
 - Various cybersecurity research papers and industry reports
 
-**Date Completed:** August 16, 2025
-**Author:** [Your Name]
-**Course:** Cybersecurity Internship - Task 6
+## Interview Questions - 
+
+1. What makes a password strong?
+Answer: Length (16+ characters), randomness, uniqueness per account, and avoiding predictable patterns or personal information.
+
+2. What are common password attacks?
+Answer: Brute force (trying all combinations), dictionary attacks (common words), credential stuffing (using leaked passwords), and phishing.
+
+3. Why is password length important?
+Answer: Each additional character exponentially increases the time needed to crack a password through brute force attacks.
+
+4. What is a dictionary attack?
+Answer: An attack that uses lists of common words, phrases, and previously breached passwords to guess credentials.
+
+5. What is multi-factor authentication?
+Answer: A security method requiring two or more verification factors (something you know, have, or are) beyond just a password.
+
+6. How do password managers help?
+Answer: They generate unique, strong passwords for each account, store them securely, and protect against password reuse and phishing.
+
+7. What are passphrases?
+Answer: Long passwords made of multiple random words that are easier to remember but harder to crack than complex short passwords.
+
+8. What are common mistakes in password creation?
+Answer: Using personal information, reusing passwords, making them too short, using predictable patterns, and avoiding password managers.
