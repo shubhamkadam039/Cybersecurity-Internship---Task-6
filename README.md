@@ -21,7 +21,7 @@ I systematically created and tested the following password categories:
 
 **Category 1: Weak Passwords**
 - `password123` - Common dictionary word with simple numbers
-- `john1985` - Personal information (name + birth year)
+- `shubham1985` - Personal information (name + birth year)
 - `123456` - Sequential numbers only
 - `qwerty` - Keyboard pattern
 
